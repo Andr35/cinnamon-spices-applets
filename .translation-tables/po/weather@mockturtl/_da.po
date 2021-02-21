@@ -1,0 +1,99 @@
+# Danish language file for cinnamon-weather.
+# Copyright (C) 2112
+# This file is distributed under the same license as the cinnamon-weather package.
+# Michael Rasmussen <mir@datanom.net>, 2012.
+# Alan Mortensen <alanmortensen.am@gmail.com>, 2015, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.4.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-06 19:08+0000\n"
+"PO-Revision-Date: 2021-02-01 17:42+0100\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: dansk <dansk@dansk-gruppen.dk>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3\n"
+
+#: 3.0/climacell.js:302 3.8/climacellV4.js:248 3.8/climacell.js:207
+msgid "Freezing drizzle"
+msgstr ""
+
+#: 3.0/climacell.js:315 3.8/climacellV4.js:283 3.8/climacell.js:220
+msgid "Heavy ice pellets"
+msgstr ""
+
+#: 3.0/climacell.js:316 3.0/climacell.js:322 3.0/climacell.js:323
+#: 3.0/climacell.js:330 3.8/climacellV4.js:275 3.8/climacellV4.js:276
+#: 3.8/climacellV4.js:282 3.8/climacellV4.js:289 3.8/climacell.js:221
+#: 3.8/climacell.js:227 3.8/climacell.js:228 3.8/climacell.js:235
+msgid "Ice pellets"
+msgstr ""
+
+#: 3.0/climacell.js:329 3.8/climacellV4.js:290 3.8/climacell.js:234
+msgid "Light ice pellets"
+msgstr ""
+
+#: 3.0/climacell.js:371 3.0/climacell.js:372 3.8/climacellV4.js:164
+#: 3.8/climacell.js:276 3.8/climacell.js:277
+msgid "Light fog"
+msgstr ""
+
+#: 3.0/climacell.js:406 3.0/climacell.js:407 3.8/climacellV4.js:135
+#: 3.8/climacellV4.js:136 3.8/climacell.js:311 3.8/climacell.js:312
+msgid "Mostly clear"
+msgstr ""
+
+#: 3.8/climacellV4.js:171
+msgid "Light wind"
+msgstr ""
+
+#: 3.8/climacellV4.js:185
+msgid "Strong wind"
+msgstr ""
+
+#: 3.8/weatherbit.js:230
+msgid "API key doesn't provide access to Hourly Weather, skipping"
+msgstr ""
+
+#. 3.8->settings-schema.json->more-info->title
+msgid "More about the Weather applet"
+msgstr ""
+
+#. 3.8->settings-schema.json->dataService->tooltip
+msgid ""
+"You can choose between several different weather forecast providers. Some "
+"providers require a API key to work, some have regional limits, differ in "
+"forecast length, and they all need a functional internet connection to work. "
+"The options are described in detail on the Cinnamon Spices Website which you "
+"can access with the button on the Help tab."
+msgstr ""
+
+#. 3.8->settings-schema.json->dataService->options
+msgid "ClimacellV4 (key needed)"
+msgstr ""
+
+#. 3.8->settings-schema.json->dataService->options
+msgid "ClimacellV3 (key needed)"
+msgstr ""
+
+#. 3.8->settings-schema.json->location->tooltip
+msgid ""
+"You can enter coordinates 'Latitude,Longitude' (e.g. 51.5085,-0.1257) or use "
+"'City,Country-code' (e.g. London,UK) or try to enter {House number} {Street} "
+"{City/Town} {Postcode} {Country}. The search algorithm is very flexible with "
+"the format. After 3 seconds without typing the address you entered is "
+"replaced automatically for validating your choice."
+msgstr ""
+
+#. 3.8->settings-schema.json->more-info-label->description
+msgid ""
+"For detailed information about the applet please go to the Spices Website by "
+"clicking the button below. You can also comment and ask a questions to the "
+"community at this page by logging in with your Github account. You can also "
+"find information about known issues, troubleshooting, changelog and more."
+msgstr ""
